@@ -11,3 +11,31 @@ WARNING: All audio drivers failed, falling back to the dummy driver.
 
 ERROR: Error opening file 'res://icon.svg'.
    at: load_image (core/io/image_loader.cpp:91)
+ERROR: Node not found: "Arbusto" (relative to "/root/Level/Placa").
+   at: get_node (scene/main/node.cpp:1975)
+   GDScript backtrace (most recent call first):
+       [0] @implicit_ready (res://scripts/placa.gd:9)
+ERROR: Removing a CollisionObject node during a physics callback is not allowed and will cause undesired behavior. Remove with call_deferred() instead.
+   at: _notification (scene/2d/physics/collision_object_2d.cpp:99)
+   GDScript backtrace (most recent call first):
+       [0] _on_hitbox_body_entered (res://scripts/inimigo.gd:31)
+ERROR: Node not found: "Arbusto" (relative to "/root/Level/Placa").
+   at: get_node (scene/main/node.cpp:1975)
+   GDScript backtrace (most recent call first):
+       [0] @implicit_ready (res://scripts/placa.gd:9)
+ERROR: Removing a CollisionObject node during a physics callback is not allowed and will cause undesired behavior. Remove with call_deferred() instead.
+   at: _notification (scene/2d/physics/collision_object_2d.cpp:99)
+   GDScript backtrace (most recent call first):
+       [0] _on_hitbox_body_entered (res://scripts/inimigo.gd:31)
+ERROR: Node not found: "Arbusto" (relative to "/root/Level/Placa").
+   at: get_node (scene/main/node.cpp:1975)
+   GDScript backtrace (most recent call first):
+       [0] @implicit_ready (res://scripts/placa.gd:9)
+ERROR: Removing a CollisionObject node during a physics callback is not allowed and will cause undesired behavior. Remove with call_deferred() instead.
+   at: _notification (scene/2d/physics/collision_object_2d.cpp:99)
+   GDScript backtrace (most recent call first):
+       [0] _on_hitbox_body_entered (res://scripts/inimigo.gd:31)
+ERROR: Node not found: "Arbusto" (relative to "/root/Level/Placa").
+   at: get_node (scene/main/node.cpp:1975)
+   GDScript backtrace (most recent call first):
+       [0] @implicit_ready (res://scripts/placa.gd:9)

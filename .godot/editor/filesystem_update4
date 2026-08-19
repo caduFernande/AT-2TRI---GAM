@@ -1,2 +1,7 @@
 res://scenes/player.tscn
 res://resources/ground_tileset.tres
+res://scenes/cereja.tscn
+res://scenes/inimigo.tscn
+res://scenes/level.tscn
+res://scripts/inimigo.gd
+res://scripts/cereja.gd

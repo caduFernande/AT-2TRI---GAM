@@ -8,6 +8,7 @@ var direction: int = 1
 @onready var ray_right: RayCast2D = $RayRight
 @onready var ray_left: RayCast2D = $RayLeft
 @onready var sprite: AnimatedSprite2D = $AnimatedSprite2D
+@onready var player: CharacterBody2D = $"../Player"
 
 
 func _physics_process(delta: float) -> void:
