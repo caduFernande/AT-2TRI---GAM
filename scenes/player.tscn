@@ -96,7 +96,7 @@ shape = SubResource("Rect_player")
 [node name="Camera2D" type="Camera2D" parent="." unique_id=209363281]
 limit_left = 0
 limit_top = 0
-limit_right = 1280
+limit_right = 1439
 limit_bottom = 272
 position_smoothing_enabled = true
 position_smoothing_speed = 8.0

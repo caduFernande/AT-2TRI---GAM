@@ -15,3 +15,4 @@ func add_point(amount: int = 1) -> void:
 func reset() -> void:
 	score = 0
 	score_changed.emit(score)
+	

@@ -9,3 +9,5 @@ res://scenes/placa.tscn
 res://scripts/placa.gd
 res://scripts/game_manager.gd
 res://scenes/hud.tscn
+res://scenes/powerup.tscn
+res://scripts/powerup.gd
