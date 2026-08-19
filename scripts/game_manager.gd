@@ -2,7 +2,7 @@ extends Node
 ## Autoload (Singleton) que guarda a pontuacao do jogo.
 ## Emite um sinal sempre que a pontuacao muda, para o HUD se atualizar.
 
-signal score_changed(new_score: int)
+signal score_changed(score: int)
 
 var score: int = 0
 

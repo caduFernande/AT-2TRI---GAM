@@ -3,6 +3,6 @@ extends Area2D
 
 func _on_body_entered(body: Node2D) -> void:
 	if body.is_in_group("player"):
-		GameManager.add_point(1)
+		GameManager.add_point()
 		body.brilhar()
 		queue_free()

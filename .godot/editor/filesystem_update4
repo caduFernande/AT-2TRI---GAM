@@ -5,3 +5,7 @@ res://scenes/inimigo.tscn
 res://scenes/level.tscn
 res://scripts/inimigo.gd
 res://scripts/cereja.gd
+res://scenes/placa.tscn
+res://scripts/placa.gd
+res://scripts/game_manager.gd
+res://scenes/hud.tscn
